@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fig2Drawio"
+  short_description: "Convert figures into editable draw.io files."
+  default_prompt: "Use $fig2drawio to recreate this figure as an editable .drawio file."

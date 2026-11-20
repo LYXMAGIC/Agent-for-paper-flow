@@ -1,0 +1,4 @@
+interface:
+  display_name: "Veusz"
+  short_description: "Create, inspect, edit, and export Veusz .vsz plots."
+  default_prompt: "Use $veusz to create, inspect, edit, or export Veusz .vsz scientific plotting projects using the official Veusz script/API workflow."
